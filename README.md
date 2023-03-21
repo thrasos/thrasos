@@ -13,9 +13,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-<img src="https://plus.unsplash.com/premium_photo-1661719049125-ddfbef800d2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"/>
-:point_up: 	<sub>this is not me	</sub>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thrasos&layout=compact"/>
 </p>
