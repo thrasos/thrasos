@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on web stuff.
-- 🌱 I’m currently learning devops stuff, AI, automating agriculture, wine making and distillation.
+- 🔭 I’m currently working on web & AI stuff.
+- 🌱 I’m currently learning devops and for fun automating agriculture, wine making and distillation.
 - 👯 I’m looking to collaborate on non-profit AI projects and mobile apps and generally cool ideas.
 - 💬 Ask me about my projects.
 - 📫 How to reach me: thrasos.net
